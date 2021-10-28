@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid {
+    width: 100%;
+    position: relative;
+    padding: 30px 0px;
+    background-color: #F7FAFD;
+}
+
+.nav-item {
+    font-size: 0.9em;
+    font-weight: 600;
+    color: #72BBEC;
+}
+
+.hero-section {
+    background-color: #ffffff;
+}
+
+.short-url {
+    padding: 50px 0px;
+    background-color: #2E3490;
+}
+
+.get-started {
+    padding: 100px 0px;
+    background-image: url("images/office-g014e93e9d_1280.jpg"), linear-gradient(#273253, #232b46);
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #ffffff;
+}
+
+#primary-btn {
+    padding: 10px 20px;
+    border-style: none;
+    border-radius: 5px;
+    background-color: #2E3490;
+    color: #ffffff;
+    font-size: 0.9em;
+    font-weight: 600;
+}
+
+#get-started {
+    margin-top: 40px;
+    padding: 15px 35px;
+    border-style: none;
+    border-radius: 5px;
+    background-color: #ffffff;
+    color: #0E314C;
+    font-size: 0.9em;
+    font-weight: 600;
+    text-transform: uppercase;
+}
